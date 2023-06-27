@@ -1,0 +1,3 @@
+(library
+ (name TIPE)
+ (libraries Unix graphics))

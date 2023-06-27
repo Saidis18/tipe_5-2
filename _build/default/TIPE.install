@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/TIPE/META"
+  "_build/install/default/lib/TIPE/dune-package"
+  "_build/install/default/lib/TIPE/opam"
+]
+bin: [
+  "_build/install/default/bin/TIPE"
+]
+doc: [
+  "_build/install/default/doc/TIPE/README.md"
+]
